@@ -8,5 +8,6 @@ public class Main {
         System.out.println("no");
     }
         System.out.println("the code is complete");
+    Solarsystem solarsystem=new Solarsystem();
     }
 }
